@@ -27,7 +27,7 @@
             android:id="@+id/txtName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Name"
+            android:text="@string/name"
             android:textStyle="bold"
             android:textSize="18sp"
             android:paddingTop="10dp"/>
@@ -36,32 +36,31 @@
             android:id="@+id/txtBrand"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
-            android:text="Brand" />
+            android:text="@string/brand" />
 
         <TextView
             android:id="@+id/txtPrice"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Price" />
+            android:text="@string/price" />
 
         <TextView
             android:id="@+id/txtGender"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Gender" />
+            android:text="@string/gender" />
 
         <TextView
             android:id="@+id/txtQuantity"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Quantity" />
+            android:text="@string/quantity" />
 
         <TextView
             android:id="@+id/txtOffer"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Offer"
+            android:text="@string/offer"
             android:textColor="#DC1515"
             android:textStyle="bold" />
 
@@ -69,7 +68,7 @@
             android:id="@+id/btnAddToCart"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Add to Cart"
+            android:text="@string/add_to_cart"
             android:layout_gravity="end"
             android:layout_marginTop="10dp"
             android:backgroundTint="#FF9800"
