@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Perf Store</string>
+    <string name="welcome_to_perf_store">Welcome to Perf Store !</string>
+    <string name="enter_perfume_name">Enter Perfume Name</string>
+    <string name="show_only_discounted">Show only discounted</string>
+    <string name="for_females">For Females</string>
+    <string name="for_males">For Males</string>
+    <string name="search">Search</string>
+</resources>
